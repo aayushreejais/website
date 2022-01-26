@@ -1,0 +1,47 @@
+body{
+  background-color: lightblue;
+}
+
+.h:hover{
+  background-color: gold;
+}
+
+div{
+  background-color: pink;
+}
+
+.hi{
+  border-radius: 100%;
+}
+
+.sec{
+  background-color: red;
+  border: solid 20px;
+  border-color: purple;
+  height: 230px;
+  width:80px;
+  margin: 10px;
+}
+
+.h7{
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  border: solid 10px;
+  padding: 20px;
+}
+.h8{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  border: solid 20px;
+}
+.h9{
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+  border:solid 10px;
+}
+.a{
+  background-color: white;
+}
